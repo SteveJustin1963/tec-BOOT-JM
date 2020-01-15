@@ -1,3 +1,5 @@
+{Pascal Source control lpt port}
+
 program bootZ80;        { Z80 Bootloader. Uses NMI, RESET, CLOCK, A15   }
 
 uses crt;               { Copyright (c) 1998, Jens Dyekjær Madsen - V16 }
