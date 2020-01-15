@@ -1,3 +1,4 @@
 # tecBOOT
-A simple TEC-1 bootloader code and NMI, RESET, CLOCK, A15 and 2 chip TTL.
+Adapted from http://www.z80.info/jmz8boot.htm
+Design a simple bootloader for the TEC-1
 
