@@ -1,3 +1,3 @@
 # tecBOOT
-Design a simple bootloader for the TEC-1
+Port a bootloader to the TEC-1
 
